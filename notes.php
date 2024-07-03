@@ -125,3 +125,6 @@ $user = $stmt->fetch(); // Fetch user data
 $password = "mypassword"; // Password to hash
 $hashed_password = password_hash($password, PASSWORD_DEFAULT); // Hash password
 ?>
+
+ Less Than <, Greater Than >, Less Than
+ Equal <=, Grater Than Equal >= 
